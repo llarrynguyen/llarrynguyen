@@ -1,4 +1,4 @@
 - 👋 Hi, My name is Larry with handle @llarrynguyen
-- 👀 I’m interested in working on AI, mobile, recommendation system and blockchain
+- 👀 I’m interested in working on AI, mobile, recommendation system
 - 💞️ I’m looking to collaborate on data, ai backend, mobile ai platform
 - 📫 Reach me at Larrynguyen33@gmail.com
